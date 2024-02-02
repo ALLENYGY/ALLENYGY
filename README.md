@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLENYGY&repo=ALLENYGY's Blog)](https://github.com/ALLENYGY/ALLENYGY.github.io)
+
 -->
 
 <!--   my-ticker -->    
@@ -21,7 +23,6 @@ Here are some ideas to get you started:
 [![AllenYGY's github stats](https://github-readme-stats.vercel.app/api?username=AllenYGY&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=wineee.github.io,deepin-terminal-gtk)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALLENYGY&repo=ALLENYGY's Blog)](https://github.com/ALLENYGY/ALLENYGY.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=open17&repo=Python-for-CP)](https://github.com/open17/Python-for-CP)
+
 
 
