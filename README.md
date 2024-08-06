@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 <!--   my-ticker -->    
 
-| [![AllenYGY's github stats](https://github-readme-stats.vercel.app/api?username=AllenYGY&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=ALLENYGY.github.io,CODE,CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,DataBase-Management-System-Project,OldALLENYGY.github.io)](https://github.com/anuraghazra/github-readme-stats) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ALLENYGY&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLENYGY&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLENYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=ALLENYGY.github.io,CODE,CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,DataBase-Management-System-Project,OldALLENYGY.github.io)](https://github.com/anuraghazra/github-readme-stats" style="height:150px;"/>
 </div>
 
