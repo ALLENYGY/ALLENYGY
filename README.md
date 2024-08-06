@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+AllenYGY;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 [![AllenYGY's github stats](https://github-readme-stats.vercel.app/api?username=AllenYGY&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=ALLENYGY.github.io,CODE,CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,DataBase-Management-System-Project,OldALLENYGY.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYGY&show_icons=true&layout=donut-vertical&theme=vue&exclude_repo=ALLENYGY.github.io,CODE,CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,DataBase-Management-System-Project,OldALLENYGY.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
