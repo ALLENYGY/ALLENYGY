@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ALLENYGY&show_icons=true&layout=compact&theme=vue" style="height:150px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLENYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=ALLENYGY.github.io,CODE,CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,DataBase-Management-System-Project,OldALLENYGY.github.io&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats" style="height:150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALLENYGY&show_icons=true&layout=compact&theme=vue&exclude_repo=ALLENYGY.github.io,CODE,CUMCM,Probability_Statistics_Project,comments,ImageSpace,GPT-Next,DataBase-Management-System-Project,OldALLENYGY.github.io&hide=Jupyter-Notebook)](https://github.com/anuraghazra/github-readme-stats" style="height:150px;"/>
 </div>
 
